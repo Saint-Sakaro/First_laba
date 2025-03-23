@@ -173,8 +173,8 @@ void process_command(char* command, FILE* output, int* total, int* passed, int t
 }
 
 int main() {
-    FILE* input = fopen("input.txt", "r");
-    FILE* output = fopen("output.txt", "r");
+    FILE* input = fopen("files/input.txt", "r");
+    FILE* output = fopen("files/output.txt", "r");
     int total = 0, passed = 0, test_number = 0;
     char line[MAX_LINE];
     matrix_error_t err;

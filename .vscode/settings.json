@@ -18,6 +18,11 @@
         "locale": "cpp",
         "ostream": "cpp",
         "print": "cpp",
-        "version": "cpp"
+        "version": "cpp",
+        "type.h": "c",
+        "float.h": "c",
+        "int.h": "c",
+        "complex.h": "c",
+        "double.h": "c"
     }
 }

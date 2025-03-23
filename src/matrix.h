@@ -1,11 +1,11 @@
 #pragma once
 #include <string.h>
-#include "type.h"
 #include "error.h"
-#include "int.h"
-#include "float.h"
-#include "double.h"
-#include "complex.h"
+#include "../types/type.h"
+#include "../types/int.h"
+#include "../types/float.h"
+#include "../types/double.h"
+#include "../types/complex.h"
 
 typedef struct matrix {
     size_t size;
