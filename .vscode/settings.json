@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "__locale": "c",
+        "bitset": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "queue": "c",
+        "stack": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "matrix.h": "c",
+        "__availability": "cpp",
+        "locale": "cpp",
+        "ostream": "cpp",
+        "print": "cpp",
+        "version": "cpp"
+    }
+}
